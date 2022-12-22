@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="healthHearts.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="damn0000" x="10" y="10" width="101" height="25"/>
+	<SubTexture name="healthFull0000" x="10" y="45" width="101" height="25"/>
+	<SubTexture name="hurt10000" x="10" y="80" width="101" height="25"/>
+</TextureAtlas>

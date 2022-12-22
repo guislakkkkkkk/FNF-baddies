@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"expression": "walk",
+			"text": "J: Oh nova, I had so much fun today! That shooting you were in, it was stressful for everyone. This was very much needed. Some time together.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": "dialogue"
+		},
+		{
+			"expression": "mall",
+			"text": "J: I loved when we bought cinnamon rolls and got food at the mall...",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": "dialogue"
+		},
+		{
+			"expression": "target",
+			"text": "J: or when we went to the supermarket and you pushed me around in the cart.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": "dialogue"
+		},
+		{
+			"expression": "arcades",
+			"text": "J: Oh yeah, baby! I can't forget the arcades! That shit was mad fun.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": "dialogue"
+		},
+		{
+			"expression": "time",
+			"text": "J: And now... we're taking a walk through busy ass Time Square. Today, has been the best.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": "dialogue"
+		},
+		{
+			"expression": "shy",
+			"text": "J: I dunno man, like... it's gonna sound mad cringe but I don't care.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": "dialogue"
+		},
+		{
+			"expression": "shy",
+			"text": "J: I REALLY love spending time with you. I know I tell you this all the time but you make me feel things I haven't felt before.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": "dialogue"
+		},
+		{
+			"expression": "galaxy",
+			"text": "J: Sometimes i feel like I'm on top of the world when we're together. I actually feel safe. Here. With you.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": "dialogue"
+		},
+		{
+			"expression": "touch",
+			"text": "J: Diablo. I've been hurt too many times in the past. It's cringe but I don't wanna lose this. I know that deep down, you wouldn't do anything to hurt me. I trust you.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nova",
+			"text": "N: I'm really glad you think that, Jasmine. Its.. heart warming to hear that, and I mean it.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confess",
+			"text": "J: Pump your brakes, my G. You talking now!? Damnn, now I know this shit is gonna be good, haha!",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nova",
+			"text": "N: Yeah. I am. You say you trust me, right? Trust me when I say you be a total bitch sometimes...",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confess",
+			"text": "J: H-huh? Sorry, these people be loud as hell around here. Whatcha say, babe?",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nova",
+			"text": "N: You really have a raspy voice no one likes. You're way too loud and obnoxious, which must make it hard for people to be around you. I get happy when we both go home.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confessMad",
+			"text": "J: Are you deadass?? I KNOW you buggin' right now. Why.. why the hell are you being so damn mean for like-",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.15,
+			"sound": ""
+		},
+		{
+			"expression": "nova",
+			"text": "N: I'ma be honest. I already had 5 girls behind your back. 6. My bad, forgot your sister. I kept you around for the status. Nice to know you feeling me tho.",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "angryAss",
+			"text": "J: AIN'T NO WAY! Imma deadass kill you! YOU KNOW I'M NOT DOING WELL MENTALLY. I TRUSTED YOU! ALL OF MY INSECURITIES!",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.15,
+			"sound": ""
+		},
+		{
+			"expression": "angryAss",
+			"text": "J: After all that we've been through! I came out here to help YOU! SPEND TIME WITH YOU! FOR US! JUST FOR you to say...-",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "crawl",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fear",
+			"text": "J: Dios.. mio.. no no no...",
+			"boxState": "normal",
+			"portrait": "night",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

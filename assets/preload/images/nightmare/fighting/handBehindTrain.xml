@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="handBehindTrain.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="handBehindTrain0000" x="10" y="10" width="328" height="565" frameX="-3" frameY="-480" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0001" x="10" y="10" width="328" height="565" frameX="-3" frameY="-480" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0002" x="348" y="10" width="328" height="565" frameX="0" frameY="-321" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0003" x="348" y="10" width="328" height="565" frameX="0" frameY="-321" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0004" x="10" y="10" width="328" height="565" frameX="-13" frameY="-111" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0005" x="10" y="10" width="328" height="565" frameX="-13" frameY="-111" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0006" x="10" y="10" width="328" height="565" frameX="-53" frameY="-8" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0007" x="10" y="10" width="328" height="565" frameX="-53" frameY="-8" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0008" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0009" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0010" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0011" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0012" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0013" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0014" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0015" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0016" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0017" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0018" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0019" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0020" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0021" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0022" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0023" x="10" y="10" width="328" height="565" frameX="-50" frameY="-19" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0024" x="686" y="10" width="352" height="603" frameX="-21" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0025" x="686" y="10" width="352" height="603" frameX="-21" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0026" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0027" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0028" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0029" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0030" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0031" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0032" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0033" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0034" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0035" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0036" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0037" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0038" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0039" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0040" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0041" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0042" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0043" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0044" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0045" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0046" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0047" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0048" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0049" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0050" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0051" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0052" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0053" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0054" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0055" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+	<SubTexture name="handBehindTrain0056" x="1048" y="10" width="356" height="611" frameX="-16" frameY="0" frameWidth="381" frameHeight="1045"/>
+</TextureAtlas>

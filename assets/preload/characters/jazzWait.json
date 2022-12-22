@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "normalIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				145
+			],
+			"anim": "trick1",
+			"fps": 24,
+			"name": "disappearTrick",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				73
+			],
+			"anim": "trick2",
+			"fps": 24,
+			"name": "doveTrick",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "sitIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lowQuality/jasmineWaiting",
+	"position": [
+		-70,
+		410
+	],
+	"healthicon": "jasmineNew",
+	"flip_x": true,
+	"healthbar_colors": [
+		210,
+		171,
+		248
+	],
+	"camera_position": [
+		-150,
+		70
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 0.8
+}

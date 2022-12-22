@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				327,
+				2
+			],
+			"anim": "shot",
+			"fps": 24,
+			"name": "shot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				91
+			],
+			"anim": "dies",
+			"fps": 24,
+			"name": "gone",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadow",
+	"position": [
+		-70,
+		-30
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carlita.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="carlitaBop0000" x="10" y="10" width="492" height="258" frameX="0" frameY="-4" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0001" x="10" y="10" width="492" height="258" frameX="0" frameY="-4" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0002" x="512" y="10" width="489" height="259" frameX="-3" frameY="-3" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0003" x="512" y="10" width="489" height="259" frameX="-3" frameY="-3" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0004" x="1011" y="10" width="488" height="261" frameX="-4" frameY="-1" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0005" x="1011" y="10" width="488" height="261" frameX="-4" frameY="-1" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0006" x="1509" y="10" width="488" height="261" frameX="-4" frameY="-1" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0007" x="1509" y="10" width="488" height="261" frameX="-4" frameY="-1" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0008" x="10" y="281" width="488" height="262" frameX="-4" frameY="0" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0009" x="10" y="281" width="488" height="262" frameX="-4" frameY="0" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0010" x="10" y="281" width="488" height="262" frameX="-4" frameY="0" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0011" x="10" y="281" width="488" height="262" frameX="-4" frameY="0" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0012" x="508" y="281" width="489" height="261" frameX="-3" frameY="-1" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="carlitaBop0013" x="508" y="281" width="489" height="261" frameX="-3" frameY="-1" frameWidth="492" frameHeight="262"/>
+	<SubTexture name="talking0000" x="1007" y="281" width="489" height="263"/>
+	<SubTexture name="talking0001" x="1007" y="281" width="489" height="263"/>
+	<SubTexture name="talking0002" x="1506" y="281" width="488" height="262" frameX="-1" frameY="-1" frameWidth="489" frameHeight="263"/>
+	<SubTexture name="talking0003" x="1506" y="281" width="488" height="262" frameX="-1" frameY="-1" frameWidth="489" frameHeight="263"/>
+	<SubTexture name="talking0004" x="10" y="554" width="488" height="262" frameX="-1" frameY="-1" frameWidth="489" frameHeight="263"/>
+	<SubTexture name="talking0005" x="10" y="554" width="488" height="262" frameX="-1" frameY="-1" frameWidth="489" frameHeight="263"/>
+	<SubTexture name="talking0006" x="508" y="554" width="488" height="262" frameX="-1" frameY="-1" frameWidth="489" frameHeight="263"/>
+	<SubTexture name="talking0007" x="508" y="554" width="488" height="262" frameX="-1" frameY="-1" frameWidth="489" frameHeight="263"/>
+	<SubTexture name="talking0008" x="1006" y="554" width="488" height="262" frameX="-1" frameY="-1" frameWidth="489" frameHeight="263"/>
+</TextureAtlas>

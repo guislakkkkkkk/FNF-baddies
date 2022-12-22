@@ -1,0 +1,206 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "confess",
+			"loop_offsets": [
+				0,
+				111
+			],
+			"idle_name": "confess",
+			"loop_name": "confess"
+		},
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "mall",
+			"loop_offsets": [
+				0,
+				110
+			],
+			"idle_name": "mall",
+			"loop_name": "mall"
+		},
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "angryAss",
+			"loop_offsets": [
+				0,
+				110
+			],
+			"idle_name": "angryYell",
+			"loop_name": "angryYell"
+		},
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "arcades",
+			"loop_offsets": [
+				0,
+				110
+			],
+			"idle_name": "arcades",
+			"loop_name": "arcades"
+		},
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "fear",
+			"loop_offsets": [
+				0,
+				110
+			],
+			"idle_name": "fear",
+			"loop_name": "fear"
+		},
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "galaxy",
+			"loop_offsets": [
+				0,
+				110
+			],
+			"idle_name": "galaxy",
+			"loop_name": "galaxy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "nova",
+			"loop_offsets": [
+				0,
+				110
+			],
+			"idle_name": "novaTalk",
+			"loop_name": "novaTalk"
+		},
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "shy",
+			"loop_offsets": [
+				0,
+				110
+			],
+			"idle_name": "shy",
+			"loop_name": "shy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "target",
+			"loop_offsets": [
+				0,
+				110
+			],
+			"idle_name": "target",
+			"loop_name": "target"
+		},
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "touch",
+			"loop_offsets": [
+				0,
+				110
+			],
+			"idle_name": "touched",
+			"loop_name": "touched"
+		},
+		{
+			"loop_offsets": [
+				0,
+				110
+			],
+			"anim": "crawl",
+			"idle_offsets": [
+				0,
+				110
+			],
+			"loop_name": "crawlOut",
+			"idle_name": "crawlOut"
+		},
+		{
+			"idle_offsets": [
+				0,
+				110
+			],
+			"anim": "confessMad",
+			"loop_offsets": [
+				0,
+				110
+			],
+			"idle_name": "yell",
+			"loop_name": "yell"
+		},
+		{
+			"loop_offsets": [
+				0,
+				110
+			],
+			"anim": "walk",
+			"idle_offsets": [
+				0,
+				110
+			],
+			"loop_name": "walk",
+			"idle_name": "walk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				110
+			],
+			"anim": "time",
+			"idle_offsets": [
+				0,
+				110
+			],
+			"loop_name": "timeSquare",
+			"idle_name": "timeSquare"
+		},
+		{
+			"loop_name": "angryYell",
+			"idle_offsets": [
+				0,
+				110
+			],
+			"idle_name": "angryYell",
+			"anim": "angryConfused2",
+			"loop_offsets": [
+				0,
+				110
+			]
+		}
+	],
+	"image": "nightmareDialogue"
+}

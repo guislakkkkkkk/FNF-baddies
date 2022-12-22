@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				197,
+				191
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "firstDeath",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				99,
+				168
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deadLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				944,
+				402
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deadConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jazzGameOver",
+	"position": [
+		200,
+		500
+	],
+	"healthicon": "jasminenew",
+	"flip_x": true,
+	"healthbar_colors": [
+		210,
+		171,
+		248
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

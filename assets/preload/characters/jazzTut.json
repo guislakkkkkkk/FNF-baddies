@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				404,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "DOWNshoot",
+			"indices": [],
+			"name": "downShoot"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				338,
+				46
+			],
+			"anim": "UPshoot",
+			"fps": 24,
+			"name": "upShoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				454,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "RIGHTshoot",
+			"indices": [],
+			"name": "shootRight"
+		},
+		{
+			"offsets": [
+				408,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LEFTshoot",
+			"indices": [],
+			"name": "leftShoot"
+		},
+		{
+			"offsets": [
+				-21,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missDown"
+		},
+		{
+			"offsets": [
+				-10,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missUp"
+		},
+		{
+			"offsets": [
+				-42,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missLeft"
+		},
+		{
+			"offsets": [
+				4,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missRight"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "reload",
+			"loop": false,
+			"name": "cockBack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jazzTut",
+	"position": [
+		50,
+		120
+	],
+	"healthicon": "jasmineTut",
+	"flip_x": true,
+	"healthbar_colors": [
+		210,
+		171,
+		248
+	],
+	"camera_position": [
+		340,
+		50
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1
+}

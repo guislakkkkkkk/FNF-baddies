@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="build1.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="building1MOVE0000" x="10" y="10" width="560" height="245" frameX="-2540" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0001" x="580" y="10" width="561" height="245" frameX="-2370" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0002" x="1151" y="10" width="560" height="245" frameX="-2201" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0003" x="580" y="10" width="561" height="245" frameX="-2032" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0004" x="10" y="265" width="560" height="245" frameX="-1862" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0005" x="10" y="10" width="560" height="245" frameX="-1693" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0006" x="10" y="265" width="560" height="245" frameX="-1524" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0007" x="580" y="265" width="558" height="245" frameX="-1355" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0008" x="10" y="10" width="560" height="245" frameX="-1186" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0009" x="10" y="10" width="560" height="245" frameX="-1016" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0010" x="1148" y="265" width="559" height="245" frameX="-847" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0011" x="10" y="10" width="560" height="245" frameX="-677" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0012" x="10" y="10" width="560" height="245" frameX="-508" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0013" x="10" y="520" width="559" height="245" frameX="-339" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0014" x="10" y="10" width="560" height="245" frameX="-169" frameY="0" frameWidth="3100" frameHeight="245"/>
+	<SubTexture name="building1MOVE0015" x="579" y="520" width="559" height="245" frameX="0" frameY="0" frameWidth="3100" frameHeight="245"/>
+</TextureAtlas>

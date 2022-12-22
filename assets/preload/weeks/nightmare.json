@@ -1,0 +1,32 @@
+{
+	"storyName": "???",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "nightmare",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Nightmare",
+			"atrocity",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Was It All A Dream?",
+	"hiddenUntilUnlocked": false
+}

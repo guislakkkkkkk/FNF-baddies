@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nightMareDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angryConfused2" x="10" y="10" width="1280" height="720"/>
+	<SubTexture name="angryYell" x="1300" y="10" width="1280" height="720"/>
+	<SubTexture name="arcades" x="2590" y="10" width="1280" height="720"/>
+	<SubTexture name="confess" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="crawlOut" x="1300" y="740" width="1280" height="720"/>
+	<SubTexture name="fear" x="2590" y="740" width="1280" height="720"/>
+	<SubTexture name="galaxy" x="10" y="1470" width="1280" height="720"/>
+	<SubTexture name="mall" x="1300" y="1470" width="1280" height="720"/>
+	<SubTexture name="novaTalk" x="2590" y="1470" width="1280" height="720"/>
+	<SubTexture name="shy" x="10" y="2200" width="1280" height="720"/>
+	<SubTexture name="target" x="1300" y="2200" width="1280" height="720"/>
+	<SubTexture name="timeSquare" x="2590" y="2200" width="1280" height="720"/>
+	<SubTexture name="touched" x="10" y="2930" width="1280" height="720"/>
+	<SubTexture name="walk" x="1300" y="2930" width="1280" height="720"/>
+	<SubTexture name="yell" x="2590" y="2930" width="1280" height="720"/>
+</TextureAtlas>

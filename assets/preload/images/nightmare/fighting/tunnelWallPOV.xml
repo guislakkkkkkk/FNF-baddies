@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tunnelWallPOV.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tunnelPOV 0000" x="10" y="10" width="1727" height="1130" frameX="0" frameY="0" frameWidth="1791" frameHeight="1148"/>
+	<SubTexture name="tunnelPOV 0001" x="1747" y="10" width="1791" height="1148"/>
+	<SubTexture name="tunnelPOV 0002" x="10" y="1168" width="1738" height="1119" frameX="0" frameY="0" frameWidth="1791" frameHeight="1148"/>
+</TextureAtlas>

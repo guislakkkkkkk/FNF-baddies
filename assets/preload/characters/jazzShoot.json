@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				219,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "DOWNshoot",
+			"indices": [],
+			"name": "downShoot"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				82
+			],
+			"anim": "UPshoot",
+			"fps": 24,
+			"name": "upShoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				271,
+				75
+			],
+			"anim": "LEFTshoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				227,
+				81
+			],
+			"anim": "RIGHTshoot",
+			"fps": 24,
+			"name": "rightShoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-49,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reload",
+			"indices": [],
+			"name": "cockBack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				7
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				15
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wtf",
+			"indices": [],
+			"name": "confused"
+		},
+		{
+			"offsets": [
+				75,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "yikes",
+			"loop": false,
+			"name": "missShot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jazzShoot",
+	"position": [
+		10,
+		390
+	],
+	"healthicon": "jasmineNew",
+	"flip_x": true,
+	"healthbar_colors": [
+		210,
+		171,
+		248
+	],
+	"camera_position": [
+		-150,
+		90
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 0.8
+}

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="build2.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="building2MOVE0000" x="10" y="10" width="935" height="571" frameX="-2885" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0001" x="955" y="10" width="935" height="571" frameX="-2826" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0002" x="1900" y="10" width="936" height="571" frameX="-2767" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0003" x="2846" y="10" width="935" height="571" frameX="-2709" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0004" x="2846" y="10" width="935" height="571" frameX="-2650" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0005" x="10" y="10" width="935" height="571" frameX="-2591" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0006" x="10" y="591" width="935" height="571" frameX="-2532" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0007" x="10" y="10" width="935" height="571" frameX="-2473" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0008" x="10" y="591" width="935" height="571" frameX="-2414" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0009" x="10" y="10" width="935" height="571" frameX="-2355" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0010" x="955" y="591" width="934" height="571" frameX="-2297" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0011" x="2846" y="10" width="935" height="571" frameX="-2238" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0012" x="1900" y="10" width="936" height="571" frameX="-2179" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0013" x="10" y="10" width="935" height="571" frameX="-2120" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0014" x="10" y="10" width="935" height="571" frameX="-2061" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0015" x="10" y="10" width="935" height="571" frameX="-2002" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0016" x="10" y="10" width="935" height="571" frameX="-1943" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0017" x="10" y="10" width="935" height="571" frameX="-1884" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0018" x="10" y="10" width="935" height="571" frameX="-1825" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0019" x="1900" y="10" width="936" height="571" frameX="-1766" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0020" x="1900" y="10" width="936" height="571" frameX="-1708" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0021" x="1900" y="10" width="936" height="571" frameX="-1649" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0022" x="10" y="10" width="935" height="571" frameX="-1590" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0023" x="10" y="10" width="935" height="571" frameX="-1531" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0024" x="10" y="10" width="935" height="571" frameX="-1472" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0025" x="10" y="10" width="935" height="571" frameX="-1413" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0026" x="10" y="10" width="935" height="571" frameX="-1354" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0027" x="955" y="591" width="934" height="571" frameX="-1295" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0028" x="1900" y="10" width="936" height="571" frameX="-1236" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0029" x="1900" y="10" width="936" height="571" frameX="-1177" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0030" x="10" y="10" width="935" height="571" frameX="-1119" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0031" x="10" y="10" width="935" height="571" frameX="-1060" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0032" x="10" y="10" width="935" height="571" frameX="-1001" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0033" x="10" y="10" width="935" height="571" frameX="-942" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0034" x="10" y="10" width="935" height="571" frameX="-883" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0035" x="10" y="10" width="935" height="571" frameX="-824" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0036" x="1899" y="591" width="935" height="571" frameX="-765" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0037" x="1900" y="10" width="936" height="571" frameX="-706" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0038" x="1900" y="10" width="936" height="571" frameX="-647" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0039" x="10" y="10" width="935" height="571" frameX="-589" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0040" x="10" y="10" width="935" height="571" frameX="-530" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0041" x="10" y="10" width="935" height="571" frameX="-471" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0042" x="10" y="10" width="935" height="571" frameX="-412" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0043" x="10" y="10" width="935" height="571" frameX="-353" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0044" x="955" y="591" width="934" height="571" frameX="-294" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0045" x="1900" y="10" width="936" height="571" frameX="-235" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0046" x="1900" y="10" width="936" height="571" frameX="-176" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0047" x="1900" y="10" width="936" height="571" frameX="-117" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0048" x="10" y="10" width="935" height="571" frameX="-58" frameY="0" frameWidth="3820" frameHeight="571"/>
+	<SubTexture name="building2MOVE0049" x="2844" y="591" width="934" height="571" frameX="0" frameY="0" frameWidth="3820" frameHeight="571"/>
+</TextureAtlas>

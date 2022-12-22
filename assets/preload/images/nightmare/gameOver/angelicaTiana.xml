@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angelicaTiana.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="baddiesLaugh0000" x="10" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0001" x="10" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0002" x="984" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0003" x="984" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0004" x="10" y="943" width="971" height="923" frameX="0" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0005" x="10" y="943" width="971" height="923" frameX="0" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0006" x="10" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0007" x="10" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0008" x="984" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0009" x="984" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0010" x="10" y="943" width="971" height="923" frameX="0" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0011" x="10" y="943" width="971" height="923" frameX="0" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0012" x="991" y="943" width="972" height="923"/>
+	<SubTexture name="baddiesLaugh0013" x="10" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0014" x="10" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0015" x="984" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0016" x="984" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0017" x="10" y="943" width="971" height="923" frameX="0" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0018" x="10" y="943" width="971" height="923" frameX="0" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0019" x="991" y="943" width="972" height="923"/>
+	<SubTexture name="baddiesLaugh0020" x="10" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0021" x="10" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0022" x="984" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0023" x="984" y="10" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0024" x="10" y="943" width="971" height="923" frameX="0" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0025" x="10" y="943" width="971" height="923" frameX="0" frameY="0" frameWidth="972" frameHeight="923"/>
+	<SubTexture name="baddiesLaugh0026" x="991" y="943" width="972" height="923"/>
+	<SubTexture name="baddiesLaugh0027" x="991" y="943" width="972" height="923"/>
+	<SubTexture name="baddiesLaugh0028" x="991" y="943" width="972" height="923"/>
+	<SubTexture name="baddiesLaugh0029" x="991" y="943" width="972" height="923"/>
+	<SubTexture name="baddiesLaugh0030" x="991" y="943" width="972" height="923"/>
+</TextureAtlas>
